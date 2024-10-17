@@ -1,7 +1,9 @@
-# Computer Viasion Project
-A little project about computer vision to analyze video and in realt time with camera
+# Computer Vision Project
+A little project about computer vision to analyze video and in real time with camera.
 
 `Pose_landmark_new.py` analize a video X time to extract landmark of the body for a paricular movement.
+
+`Pose_marker.py` analize body landmarks with a camera or webcam
 
 `Pose_Visualization.py` analyze the data extrapolate previously and add new metrics.
 
